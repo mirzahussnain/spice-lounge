@@ -33,8 +33,8 @@ export function Navbar() {
     >
       <a href="#top" className="inline-flex items-center">
         <Image
-          src="/brand/sl.png"
-          alt="Spice Lounge logo"
+          src="/brand/spice-alamnac-logo.png"
+          alt="Spice Alamnac logo"
           width={174}
           height={58}
           className="h-auto w-32 object-contain sm:w-36 md:w-40"

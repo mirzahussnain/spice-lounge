@@ -11,10 +11,10 @@ export function OurStory() {
 			<SectionSpiceCorners />
 			<div>
 				<div className="section-topline">Our Story</div>
-				<h2>Spice Lounge Erdington is 4 years old, and excellence is our standard.</h2>
+				<h2>Spice Alamnac Erdington is 4 years old, and excellence is our standard.</h2>
 				<div className="mt-7 space-y-4 rounded-2xl border border-[rgba(232,148,58,0.2)] bg-[linear-gradient(160deg,rgba(28,21,17,0.82),rgba(16,12,10,0.74))] p-5 shadow-[0_12px_30px_rgba(0,0,0,0.28)]">
 					<p className="m-0 leading-7 text-[rgba(245,233,218,0.93)]">
-						At Spice Lounge Erdington, excellence is not just a goal - it&apos;s our standard. We take pride in
+						At Spice Alamnac Erdington, excellence is not just a goal - it&apos;s our standard. We take pride in
 						sourcing the finest quality ingredients and crafting each dish with meticulous attention to detail.
 					</p>
 					<p className="m-0 leading-7 text-[rgba(245,233,218,0.9)]">

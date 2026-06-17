@@ -13,7 +13,7 @@ export const storyBeats: StoryBeat[] = [
   },
   {
     year: "2018",
-    title: "Spice Lounge Arrives",
+    title: "Spice Alamnac Arrives",
     body: "The London lounge fused old-world techniques with modern theatrical plating and immersive hospitality."
   }
 ];

@@ -5,7 +5,7 @@
 import { RestaurantInfo } from "./types";
 
 export const restaurantInfo: RestaurantInfo = {
-  name: "Spice Lounge",
+  name: "Spice Alamnac",
   address: "14 Wood End Road, Birmingham, B24 8AD",
   cuisine: ["Indian", "Pakistani", "Bangladeshi", "Halal"],
   source: "Uber Eats",

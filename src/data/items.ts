@@ -16,7 +16,7 @@ export const items: MenuItem[] = [
     rating_percent: 85,
     review_count: 28,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_pakora-MB21.jpg",
+      "https://images.unsplash.com/photo-1599487488155-424b895abf4e?auto=format&fit=crop&w=600&q=80",
     tags: ["crispy", "chicken", "fried"],
   },
   {
@@ -29,7 +29,7 @@ export const items: MenuItem[] = [
     rating_percent: 93,
     review_count: 15,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Awadhi_seekh_kebab.jpg",
+      "https://images.unsplash.com/photo-1574484284002-952d92456975?auto=format&fit=crop&w=600&q=80",
     tags: ["grilled", "chicken", "kebab"],
   },
   {
@@ -42,7 +42,7 @@ export const items: MenuItem[] = [
     rating_percent: 91,
     review_count: 12,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mughlai_Tikka.JPG",
+      "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=600&q=80",
     tags: ["tandoori", "chicken", "marinated"],
   },
   {
@@ -55,7 +55,7 @@ export const items: MenuItem[] = [
     rating_percent: 100,
     review_count: 7,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Skewer_with_marinated_chicken_wings_bbq_barbeque.jpg",
+      "https://images.unsplash.com/photo-1527477396000-e27163b481c2?auto=format&fit=crop&w=600&q=80",
     tags: ["crispy", "chicken", "wings"],
   },
   {
@@ -68,7 +68,7 @@ export const items: MenuItem[] = [
     rating_percent: 86,
     review_count: 22,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_pakauda_avadhi_cuisine_1q.jpg",
+      "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
     tags: ["fish", "fried", "seafood"],
   },
   {
@@ -81,7 +81,7 @@ export const items: MenuItem[] = [
     rating_percent: 90,
     review_count: 10,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mughlai_Mutton_Chop_Kababs.jpg",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
     tags: ["lamb", "grilled", "chops"],
   },
   {
@@ -94,7 +94,7 @@ export const items: MenuItem[] = [
     rating_percent: 84,
     review_count: 13,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mughlai_Mutton_Chop_Kababs.jpg",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
     tags: ["lamb", "grilled", "chops"],
   },
   {
@@ -107,7 +107,7 @@ export const items: MenuItem[] = [
     rating_percent: 60,
     review_count: 5,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mutton_Seekh_Kabab.JPG",
+      "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=600&q=80",
     tags: ["lamb", "kebab", "grilled"],
   },
   {
@@ -120,7 +120,7 @@ export const items: MenuItem[] = [
     rating_percent: 82,
     review_count: 17,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Naan_with_fish_curry_avadhi_cuisine.jpg",
+      "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&w=600&q=80",
     tags: ["fish", "seafood", "naan"],
   },
   {
@@ -133,7 +133,7 @@ export const items: MenuItem[] = [
     rating_percent: 71,
     review_count: 7,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Tanduri_chicken_avadhi_cuisine.jpg",
+      "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=600&q=80",
     tags: ["tandoori", "chicken"],
   },
   {
@@ -146,7 +146,7 @@ export const items: MenuItem[] = [
     rating_percent: 92,
     review_count: 14,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Tanduri_chicken_avadhi_cuisine.jpg",
+      "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=600&q=80",
     tags: ["tandoori", "chicken"],
   },
 
@@ -161,7 +161,7 @@ export const items: MenuItem[] = [
     rating_percent: 92,
     review_count: 13,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Samosas_and_pakoras_in_Jaipur,_India.jpg",
+      "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
     tags: ["vegetarian", "vegan", "fried", "crispy"],
   },
   {
@@ -173,7 +173,7 @@ export const items: MenuItem[] = [
     rating_percent: 83,
     review_count: 6,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Bhajias.JPG",
+      "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
     tags: ["vegetarian", "vegan", "fried"],
   },
 
@@ -201,7 +201,7 @@ export const items: MenuItem[] = [
     rating_percent: 83,
     review_count: 6,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mughlai_Platter.jpg",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
     tags: ["combination", "grill", "platter"],
   },
   {
@@ -229,7 +229,7 @@ export const items: MenuItem[] = [
     rating_percent: 75,
     review_count: 33,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Curry_1.JPG",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
     spice_level: "Hot",
     tags: ["curry", "chicken", "spicy"],
   },
@@ -257,7 +257,7 @@ export const items: MenuItem[] = [
     rating_percent: null,
     review_count: null,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Bihari_Keema.JPG",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
     tags: ["curry", "meat"],
   },
   {
@@ -284,7 +284,7 @@ export const items: MenuItem[] = [
     rating_percent: 64,
     review_count: 17,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Navratan_Korma_(Mughal_Kitchen).JPG",
+      "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?auto=format&fit=crop&w=600&q=80",
     spice_level: "Mild",
     tags: ["curry", "chicken", "creamy"],
   },
@@ -300,7 +300,7 @@ export const items: MenuItem[] = [
     rating_percent: 75,
     review_count: 4,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Tanduri_chicken_avadhi_cuisine.jpg",
+      "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=600&q=80",
     tags: ["tandoori", "chicken", "grilled"],
   },
   {
@@ -313,7 +313,7 @@ export const items: MenuItem[] = [
     rating_percent: 90,
     review_count: 11,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Tanduri_chicken_avadhi_cuisine.jpg",
+      "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=600&q=80",
     tags: ["tandoori", "chicken", "grilled"],
   },
   {
@@ -325,7 +325,7 @@ export const items: MenuItem[] = [
     rating_percent: 66,
     review_count: 6,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mughlai_Mutton_Chop_Kababs.jpg",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
     tags: ["tandoori", "lamb", "grilled"],
   },
   {
@@ -337,7 +337,7 @@ export const items: MenuItem[] = [
     rating_percent: 100,
     review_count: 11,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mughlai_Mutton_Chop_Kababs.jpg",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
     tags: ["tandoori", "lamb", "grilled"],
   },
   {
@@ -350,7 +350,7 @@ export const items: MenuItem[] = [
     rating_percent: 100,
     review_count: 3,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Joojeh-kabab.JPG",
+      "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=600&q=80",
     tags: ["tandoori", "chicken", "grilled"],
   },
 
@@ -364,7 +364,7 @@ export const items: MenuItem[] = [
     rating_percent: 71,
     review_count: 57,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Hyderabadi_Biryani.JPG",
+      "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80",
     tags: ["biryani", "chicken", "rice"],
   },
   {
@@ -376,7 +376,7 @@ export const items: MenuItem[] = [
     rating_percent: 85,
     review_count: 34,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Bombay_Biryani..JPG",
+      "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=600&q=80",
     tags: ["biryani", "lamb", "rice"],
   },
   {
@@ -388,7 +388,7 @@ export const items: MenuItem[] = [
     rating_percent: 81,
     review_count: 22,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Ginger.JPG",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
     spice_level: "Hot",
     tags: ["chicken", "spicy", "garlic"],
   },
@@ -414,7 +414,7 @@ export const items: MenuItem[] = [
     rating_percent: 77,
     review_count: 9,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Curry.JPG",
+      "https://images.unsplash.com/photo-1571167530149-c1105da4f16f?auto=format&fit=crop&w=600&q=80",
     tags: ["chicken", "curry", "masala"],
   },
   {
@@ -427,7 +427,7 @@ export const items: MenuItem[] = [
     rating_percent: null,
     review_count: null,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Qeema_Hari_Mirch.jpg",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
     spice_level: "Hot",
     tags: ["lamb", "spicy", "chilli"],
   },
@@ -453,7 +453,7 @@ export const items: MenuItem[] = [
     rating_percent: null,
     review_count: null,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Murg_Musallam.jpg",
+      "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?auto=format&fit=crop&w=600&q=80",
     spice_level: "Mild",
     tags: ["chicken", "curry", "creamy"],
   },
@@ -467,7 +467,7 @@ export const items: MenuItem[] = [
     rating_percent: 80,
     review_count: 5,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Bhuna_Murgh.JPG",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
     spice_level: "Hot",
     tags: ["chicken", "spicy", "chilli"],
   },
@@ -483,7 +483,7 @@ export const items: MenuItem[] = [
     rating_percent: 80,
     review_count: 10,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Boiled_Kabuli_Channa.JPG",
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
     tags: ["vegetarian", "vegan", "curry"],
   },
   {
@@ -520,7 +520,7 @@ export const items: MenuItem[] = [
     rating_percent: 75,
     review_count: 4,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Cauliflower_Potatoes_Curry.JPG",
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
     tags: ["vegetarian", "vegan", "curry"],
   },
   {
@@ -533,7 +533,7 @@ export const items: MenuItem[] = [
     rating_percent: null,
     review_count: null,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Curry_1.JPG",
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
     tags: ["vegetarian", "vegan", "curry"],
   },
   {
@@ -545,7 +545,7 @@ export const items: MenuItem[] = [
     rating_percent: 66,
     review_count: 9,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mutton_Daal_Gosht.jpg",
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
     tags: ["vegetarian", "lentils", "creamy"],
   },
   {
@@ -558,7 +558,7 @@ export const items: MenuItem[] = [
     rating_percent: 75,
     review_count: 8,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Aalu_gobhi_avadhi_cuisine.jpg",
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
     tags: ["vegetarian", "vegan", "spinach"],
   },
   {
@@ -570,7 +570,7 @@ export const items: MenuItem[] = [
     rating_percent: 87,
     review_count: 8,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Aalu_gobhi_avadhi_cuisine.jpg",
+      "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
     tags: ["vegetarian", "vegan", "spinach"],
   },
   {
@@ -596,7 +596,7 @@ export const items: MenuItem[] = [
     rating_percent: 80,
     review_count: 102,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Hyderabadi_Biryani.JPG",
+      "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80",
     tags: ["biryani", "chicken", "rice"],
   },
   {
@@ -620,7 +620,7 @@ export const items: MenuItem[] = [
     rating_percent: 100,
     review_count: 10,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Cooked_rice.jpg",
+      "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?auto=format&fit=crop&w=600&q=80",
     tags: ["rice", "vegan", "plain"],
   },
 
@@ -634,7 +634,7 @@ export const items: MenuItem[] = [
     rating_percent: 84,
     review_count: 70,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Lucknowi_Delicacy-_Sheermal,_Kulcha,_Naan.jpg",
+      "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
     tags: ["bread", "naan", "vegetarian"],
   },
   {
@@ -646,7 +646,7 @@ export const items: MenuItem[] = [
     rating_percent: 78,
     review_count: 32,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Garlic_Butter_Naan_Food_by_Ms_Ujwala_Kasambe_DSCN1136_(1).jpg",
+      "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
     tags: ["bread", "naan", "garlic"],
   },
   {
@@ -671,7 +671,7 @@ export const items: MenuItem[] = [
     rating_percent: null,
     review_count: null,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Garlic_Butter_Naan_Food_by_Ms_Ujwala_Kasambe_DSCN1136_(3).jpg",
+      "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
     tags: ["bread", "naan", "cheese"],
   },
   {
@@ -683,7 +683,7 @@ export const items: MenuItem[] = [
     rating_percent: null,
     review_count: null,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Aesthetic_Paratta_Making_in_Salem.jpg",
+      "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
     tags: ["bread", "flatbread"],
   },
   {
@@ -695,7 +695,7 @@ export const items: MenuItem[] = [
     rating_percent: 66,
     review_count: 6,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Aesthetic_Paratta_Making_in_Salem.jpg",
+      "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
     tags: ["bread", "flatbread", "potato"],
   },
 
@@ -709,7 +709,7 @@ export const items: MenuItem[] = [
     rating_percent: 71,
     review_count: 28,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chips_in_bowl.jpg",
+      "https://images.unsplash.com/photo-1576107232684-1279f8604499?auto=format&fit=crop&w=600&q=80",
     tags: ["sides", "potatoes", "vegan"],
   },
 
@@ -724,7 +724,7 @@ export const items: MenuItem[] = [
     rating_percent: null,
     review_count: null,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Curry.JPG",
+      "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
     tags: ["kids", "chicken", "curry"],
   },
 
@@ -738,7 +738,7 @@ export const items: MenuItem[] = [
     rating_percent: 76,
     review_count: 13,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Mango_lassi.jpg",
+      "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?auto=format&fit=crop&w=600&q=80",
     tags: ["drinks", "beverages", "mango"],
   },
   {
@@ -750,7 +750,7 @@ export const items: MenuItem[] = [
     rating_percent: null,
     review_count: null,
     image_url:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Kheer.jpg",
+      "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=600&q=80",
     tags: ["desserts", "sweet", "rice"],
   },
 ];

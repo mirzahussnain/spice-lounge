@@ -8,7 +8,7 @@ export function HeroCanvas() {
 			id="top"
 			className="relative min-h-dvh overflow-hidden"
 			role="img"
-			aria-label="Spice Lounge hero video background"
+			aria-label="Spice Alamnac hero video background"
 		>
 			<div className="absolute inset-0 z-0 h-full w-full overflow-hidden">
 				<video
@@ -47,7 +47,7 @@ export function HeroCanvas() {
 							transition={{ duration: 0.62, ease: "easeOut", delay: 0.08 }}
 							className="ml-4 inline-block"
 						>
-							Lounge
+							Alamnac
 						</motion.span>
 					</motion.h1>
 					<motion.p

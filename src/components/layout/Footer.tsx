@@ -2,7 +2,7 @@ export function Footer() {
   return (
     <footer className="grid gap-4 border-t border-[rgba(245,233,218,0.14)] bg-[#140f0c] px-[clamp(20px,6vw,80px)] py-8 md:grid-cols-3">
       <div>
-        <h3>Spice Lounge</h3>
+        <h3>Spice Alamnac</h3>
         <p>Where fire, memory, and hospitality meet.</p>
       </div>
       <div>

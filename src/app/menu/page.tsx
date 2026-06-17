@@ -94,7 +94,7 @@ export default function FullMenuPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, ease: "easeOut" }}
         >
-          <p className="section-topline">Spice Lounge Birmingham</p>
+          <p className="section-topline">Spice Alamnac Birmingham</p>
           <h1>Full Menu</h1>
           <p className="full-menu-subtitle">
             From tandoor classics to rich house curries, explore our complete offering in one place.

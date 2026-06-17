@@ -17,8 +17,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Spice Lounge | Fine Dining Experience",
-  description: "Spice Lounge is an upscale dining journey with cinematic storytelling, rich heritage, and immersive ambience.",
+  title: "Spice Alamnac | Fine Dining Experience",
+  description: "Spice Alamnac is an upscale dining journey with cinematic storytelling, rich heritage, and immersive ambience.",
 };
 
 export default function RootLayout({
